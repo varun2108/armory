@@ -1,0 +1,7 @@
+body{
+background-image: url(http://localhost:81/dashboard/armary/bckgrd1.jpg);
+background-color:green;	
+background-repeat: no-repeat;
+background-blend-mode: screen;
+}
+hsla(0,100%,90%,0.3);
